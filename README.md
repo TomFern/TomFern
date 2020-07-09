@@ -1,6 +1,6 @@
 # Tomas Fernandez
 
-![Me](./media/mountains.jpg)
+![Me](https://raw.githubusercontent.com/TomFern/TomFern/master/media/mountains.jpg)
 
 👋 My name is Tomas Fernandez, I live in Argentina. Over my career in IT, I’ve wore many hats: sysadmin, dba, developer. I’ve loved them all.
 
