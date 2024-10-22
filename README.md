@@ -1,6 +1,6 @@
 # Tomas Fernandez
 
-![Me](https://raw.githubusercontent.com/TomFern/TomFern/master/media/victoria.jpg)
+![Me](https://raw.githubusercontent.com/TomFern/TomFern/master/media/sesimbra.jpg)
 
 👋 My name is Tomas Fernandez. I live in Porgugal, born in Argentina. Over my professional career, I’ve worn many hats: sysadmin, dba, and developer. I loved them all.
 
